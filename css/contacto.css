@@ -1,0 +1,229 @@
+body {
+   
+    background-color:#000000;
+  }
+
+
+  .form-register {
+    width: 400px;
+    background: #d9d9d9;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: rgb(0, 0, 0);
+    box-shadow: 7px 13px 37px #000;
+  }
+  
+  .form-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .controls {
+    width: 100%;
+    background: #d9d9d9;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #000000;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+  }
+  
+  .form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+  
+  .form-register a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .form-register a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .form-register .botons {
+    width: 100%;
+    background: #f35fde;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    
+  }
+  .botons{
+    transition: all 0.2s;
+  }
+  .botons:hover{
+    transform: scale(1.04);
+    transition: all 0.2s;
+    }
+  footer{
+    color: white;
+    text-align: center;
+  }
+  ul{
+    float: right;
+    
+  }
+  
+  
+  .divi1{
+     align-items: center;
+     background-color: black;
+     color: white;
+    
+  }
+  
+  .div1{
+  
+    background-color: black;
+    width: 100%;
+  }
+  .buttons{
+    border-color: rgb(217, 91, 190);
+    color: rgb(217, 91, 190) ;
+    background-color: #f1d1e7;
+    width: 70px;
+    height: 30px;
+    float: inline-end;
+    margin: 10px;
+    border-radius: 2%;
+  }
+  
+  .item2{
+     display: inline-block;
+  }
+  .posi{
+     margin-block-start:10px;
+  }
+  
+  .posi2{
+     margin-right:0%;
+  }
+  
+  ul li{
+   justify-content: space-between;
+     display: inline-block;
+  }
+  
+  
+  .contenedor{
+     height: 500px;
+     width: 98%;
+     border-radius: 25px;
+     margin-left: 12px;
+  
+  }
+  img{
+     height:100%;
+     width: 100%;
+  }
+  .productos{
+     display:grid;
+     place-items: center;
+     background-color: black;
+     color: white;
+  
+  
+  }
+  
+  
+  
+  .foto{
+    width: 230px ;
+    height: 250px;
+    margin-left: 12%;
+    margin-top: 10px;
+    border-radius: 5%;
+  }
+  
+  
+  .search{
+    border-color: #e572c3;
+    background-color: #e8cfe1;
+    color:  #e06bbd;
+    border-radius: 8px;
+  }
+  
+  .item{
+     margin:40px;
+     
+     
+  }
+  
+  .botones{
+     margin-top: 5%;
+     margin-left: 39%;
+     width:75px;
+     height:35px;
+     background-color: #dcb1cf;
+     border: radius 10%;
+     border-color: #dcb1cf;
+     color: white;
+  }
+  
+  .mensaje{
+   background-color: black;
+   color: aliceblue;
+  place-items:center;
+  display: grid; 
+   width: 100%;
+  }
+  
+  .imagen{
+    width:100%;
+    height: 600px;
+    background-image: url(../img/ccrp.jpeg);
+    background-size: cover;
+  
+  }
+  .container4{
+    height: 800px;
+    width: 100%;
+    background-color:rgba(0, 0, 0, 0.671);
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+.contenido4{
+
+    height: 600px;
+    width: 900px;
+  background-color:#000000dc;
+  border-radius: 10px;
+  color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0%;
+  padding-top: 0px;
+}
+.container3{
+    height: 800px;
+    width: 100%;
+    background-color:rgba(0, 0, 0, 0.671);
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+.contenido3{
+
+    height: 600px;
+    width: 900px;
+  background-color:rgb(234, 185, 220);
+  border-radius: 10px;
+  color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

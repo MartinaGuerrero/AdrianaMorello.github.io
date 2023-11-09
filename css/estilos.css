@@ -1,0 +1,141 @@
+body{
+   background-color:#FEE6F7;
+}
+
+
+* {  
+   margin:0px;  
+   padding: 0px;
+ }  
+
+ ul{
+   float: right;
+   
+ }
+ .boton{
+   border-radius: 5px;
+   border-color: rgb(213, 144, 212);
+   background-color:rgb(242, 189, 240) ;
+   margin-top: 8%;
+   margin-bottom: 10%;
+   }
+ 
+.divi1{
+    align-items: center;
+    background-color: black;
+    color: white;
+   
+}
+
+.div1{
+
+   background-color: black;
+   width: 100%;
+}
+.buttons{
+   border-color: rgb(217, 91, 190);
+   color:black ;
+   background-color: #f1d1e7;
+  
+}
+
+.item2{
+    display: inline-block;
+}
+ .posi{
+    margin-block-start:10px;
+ }
+
+ .posi2{
+    margin-right:0%;
+ }
+
+ul li{
+  justify-content: space-between;
+    display: inline-block;
+}
+
+
+.contenedor{
+    height: 500px;
+    width: 98%;
+    border-radius: 25px;
+    margin-left: 12px;
+
+}
+ img{
+    height:100%;
+    width: 100%;
+ }
+ .productos{
+    display:grid;
+    place-items: center;
+    background-color: black;
+    color: white;
+
+ 
+ }
+
+
+
+.foto{
+   width: 230px ;
+   height: 250px;
+   margin-left: 12%;
+   margin-top: 10px;
+   border-radius: 5%;
+}
+
+
+.search{
+   border-color: #e572c3;
+   background-color: #e8cfe1;
+   color:  #e06bbd;
+   border-radius: 8px;
+}
+
+ .item{
+    margin:40px;
+    
+    
+ }
+
+ .botones{
+    margin-top: 5%;
+    margin-left: 39%;
+    width:75px;
+    height:35px;
+    background-color: #dcb1cf;
+    border: radius 10%;
+    border-color: #dcb1cf;
+    color: white;
+ }
+
+ .mensaje{
+  background-color: black;
+  color: aliceblue;
+ place-items:center;
+ display: grid; 
+  width: 100%;
+ }
+
+ .imagen{
+   width:100%;
+   height: 600px;
+   background-image: url(../img/ccrp.jpeg);
+   background-size: cover;
+
+ }
+
+ .pasos{
+width: 100%;
+height: 90%;
+color: white;
+background-color: black;
+text-align: center;
+padding: 5%;
+margin-top: 5%;
+border-radius: 25px;
+
+
+ }
