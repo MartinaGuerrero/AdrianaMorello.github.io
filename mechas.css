@@ -1,0 +1,54 @@
+
+.infouno{
+    background-color: black;
+    color: white;
+    place-items: center;
+   
+}
+
+.menu{
+    background-color: black;
+    color: white;
+}
+.imagen{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.imagendos{
+   text-align: center;
+   padding-top: 4%;
+
+}
+.texto{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+}
+.cuadrado{
+    background-color:rgb(242, 189, 240) ;
+    border-radius: 15px;
+}
+
+.borde{
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.boton{
+border-radius: 5px;
+border-color: rgb(213, 144, 212);
+background-color:rgb(242, 189, 240) ;
+margin-top: 8%;
+margin-bottom: 10%;
+}
+
+
+.buttons{
+    border-color: rgb(217, 91, 190);
+    color:black ;
+    background-color: #f1d1e7;
+    margin: 10%;
+   
+ }
